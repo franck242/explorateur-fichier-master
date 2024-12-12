@@ -1,0 +1,5 @@
+Fonts used in the design;
+
+Font: DejaVu Sans,
+Author: DejaVu Fonts,
+Url: http://www.fontsquirrel.com/fonts/dejavu-sans;
